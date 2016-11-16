@@ -28,8 +28,9 @@ body {
   max-width: 50em;
   left: 50%;
   transform: translateX(-50%);
-  bottom: 1.5rem;
+  bottom: .5em;
   margin-left: 1rem;
+
 }
 
 h2 {
